@@ -1,10 +1,10 @@
 # Привет всем, меня зовут Владимир
 
-### <img src="https://static.thenounproject.com/png/4066324-200.png" height="25"> About Me :
+### <img src="https://static.thenounproject.com/png/4066324-200.png" width="25" height="25"> About Me :
 
 Я Frontend Разработчик.
 
-<img src="https://previews.123rf.com/images/illizium/illizium1903/illizium190300172/119766089-notifications-icon-like-icon-vector-social-media-like-vector-icon-instagram-like-notification.jpg" height="25"> Я люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которыми можно с удовольствием пользоваться.
+<img src="https://previews.123rf.com/images/illizium/illizium1903/illizium190300172/119766089-notifications-icon-like-icon-vector-social-media-like-vector-icon-instagram-like-notification.jpg" width="25" height="25"> Я люблю создавать что-то новое или улучшать старое, доводя его до полноценного качественного продукта, которыми можно с удовольствием пользоваться.
 
 🏃 Стремлюсь к улучшению своих навыков и расширению своего опыта.
 
