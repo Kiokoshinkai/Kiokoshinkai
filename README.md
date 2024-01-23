@@ -16,8 +16,7 @@
 
 My Skills
 
-![icon-for-contact-2](https://github.com/Kiokoshinkai/Kiokoshinkai/assets/104086140/4bf32351-93fe-46bd-9ad1-58107b49a71f {width=250px height=250px}) 
-### My contacts:
+### <img src="[http://url.to/image.png](https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg)" width="200" height="200"> My contacts:
 
 [Email](GammershmidtVV@yandex.ru)
 <GammershmidtVV@yandex.ru>
