@@ -18,7 +18,7 @@
 
 ---
 
-### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="25" height="25"> My contacts:
+### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="25" height="25"> My contacts:  
 
   <img src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT" width="25" height="25"><GammershmidtVV@yandex.ru>
 
