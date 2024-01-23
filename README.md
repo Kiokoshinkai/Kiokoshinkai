@@ -22,6 +22,6 @@
 
 <img src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT" width="50" height="50"><GammershmidtVV@yandex.ru>
 
-<img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q" width="50" height="50"><(https://t.me/Gammershmidt)>
+<img src="https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q" width="50" height="50"><https://t.me/Gammershmidt>
 
 ---
