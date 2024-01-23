@@ -16,6 +16,9 @@
 
 ### <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/programming-language-1492978-1264684.png" width="25" height="25"> Languages and Tools :
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="75" height="75">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="75" height="75">
+
 ---
 
 ### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="25" height="25"> My contacts:
