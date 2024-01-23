@@ -20,7 +20,8 @@
 
 ### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="50" height="50"> My contacts:
 
-[Email](GammershmidtVV@yandex.ru)
+<img src="https://banner2.cleanpng.com/20180426/ile/kisspng-email-computer-icons-symbol-mail-icon-5ae243b2d7f519.4118168715247779068846.jpg" width="50" height="50">
+
 <GammershmidtVV@yandex.ru>
 
 [Telegram](https://t.me/Gammershmidt)
