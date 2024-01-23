@@ -16,7 +16,7 @@
 
 My Skills
 
-### <img src="[http://url.to/image.png](https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg)" width="200" height="200"> My contacts:
+### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="200" height="200"> My contacts:
 
 [Email](GammershmidtVV@yandex.ru)
 <GammershmidtVV@yandex.ru>
