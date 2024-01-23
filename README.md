@@ -20,7 +20,7 @@
 
 ### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="50" height="50"> My contacts:
 
-<img src="https://i.pinimg.com/736x/91/28/41/912841506896fdf51b089d4922dc74c3.jpg" width="50" height="50">
+<img src="https://www.nidirect.gov.uk/sites/default/files/styles/nigov_full_620_x1/public/images/email_logo.jpg?itok=ifUhNgCT" width="50" height="50">
 
 <GammershmidtVV@yandex.ru>
 
