@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠️ Languages and Tools :
+### <img src="https://cdn-icons-png.flaticon.com/128/868/868786.png" width="25" height="25"> Languages and Tools :
 
 ---
 
