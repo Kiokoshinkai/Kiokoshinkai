@@ -16,10 +16,10 @@
 
 My Skills
 
-### 📫 My contacts
+### 📫 My contacts:
 
-Email
-GammershmidtVV@yandex.ru
+[Email](GammershmidtVV@yandex.ru)
+<GammershmidtVV@yandex.ru>
 
-Telegram
-https://t.me/Gammershmidt
+[Telegram](https://t.me/Gammershmidt)
+<https://t.me/Gammershmidt>
