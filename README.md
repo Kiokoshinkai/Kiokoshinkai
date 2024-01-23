@@ -16,7 +16,7 @@
 
 My Skills
 
-### 📫 My contacts:
+### ![](https://e7.pngegg.com/pngimages/852/102/png-clipart-dialer-contact-list-contact-manager-android-android-blue-simple-thumbnail.png) My contacts:
 
 [Email](GammershmidtVV@yandex.ru)
 <GammershmidtVV@yandex.ru>
