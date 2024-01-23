@@ -1,4 +1,5 @@
 # Привет всем, меня зовут Владимир
+---
 
 ### 👩‍💻 About Me :
 
@@ -16,8 +17,6 @@
 
 ---
 
-My Skills
-
 ### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="50" height="50"> My contacts:
 
 [Email](GammershmidtVV@yandex.ru)
@@ -25,3 +24,4 @@ My Skills
 
 [Telegram](https://t.me/Gammershmidt)
 <https://t.me/Gammershmidt>
+---
