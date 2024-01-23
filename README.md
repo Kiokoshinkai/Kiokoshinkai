@@ -16,17 +16,7 @@
 
 ### <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/programming-language-1492978-1264684.png" width="25" height="25"> Languages and Tools :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="75" height="75">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="75" height="75">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" width="75" height="75">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" height="75">
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75">
-<img src="https://github.com/Kiokoshinkai/Kiokoshinkai/assets/104086140/c766cd6f-91e0-4bbc-92b9-b8be1e248a99" width="75" height="75">
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="75" height="75">
-<img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="75" height="75">
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="75" height="75">
-<img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" width="75" height="75">
-<img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="75" height="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="75" height="75"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="75" height="75"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" width="75" height="75"><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" height="75"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75"><img src="https://github.com/Kiokoshinkai/Kiokoshinkai/assets/104086140/c766cd6f-91e0-4bbc-92b9-b8be1e248a99" width="75" height="75"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="75" height="75"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" width="75" height="75"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" width="75" height="75"><img src="https://static-00.iconduck.com/assets.00/webpack-plain-icon-1847x2048-7e4fofoe.png" width="75" height="75"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" width="75" height="75">
 
 ---
 
