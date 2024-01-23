@@ -16,8 +16,8 @@
 
 My Skills
 
-### ![](![png-clipart-dialer-contact-list-contact-manager-android-android-blue-simple-thumbnail](https://github.com/Kiokoshinkai/Kiokoshinkai/assets/104086140/d879ef92-65fc-42c7-bdf0-001dc1758d24)
-) My contacts:
+### ![png-clipart-dialer-contact-list-contact-manager-android-android-blue-simple-thumbnail](https://github.com/Kiokoshinkai/Kiokoshinkai/assets/104086140/297f5dd3-ef4f-457f-8620-75e44c722c94)
+ My contacts:
 
 [Email](GammershmidtVV@yandex.ru)
 <GammershmidtVV@yandex.ru>
