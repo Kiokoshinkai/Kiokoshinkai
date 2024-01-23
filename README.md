@@ -14,6 +14,8 @@
 
 ### 🛠️ Languages and Tools :
 
+---
+
 My Skills
 
 ### <img src="https://icon-library.com/images/icon-for-contact/icon-for-contact-2.jpg" width="50" height="50"> My contacts:
