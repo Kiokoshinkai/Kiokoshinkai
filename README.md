@@ -1,6 +1,6 @@
 # Привет всем, меня зовут Владимир
 
-### 👩‍💻 About Me :
+### <img src="https://static.thenounproject.com/png/4066324-200.png" height="25"> About Me :
 
 Я Frontend Разработчик.
 
