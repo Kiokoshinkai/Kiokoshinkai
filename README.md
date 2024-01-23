@@ -18,6 +18,9 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="75" height="75">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="75" height="75">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png" width="75" height="75">
+<img src="https://w7.pngwing.com/pngs/224/77/png-transparent-website-web-internet-css-style-css3-technology-social-media-logos-i-flat-colorful-icon.png" height="75">
+<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75">
 
 ---
 
