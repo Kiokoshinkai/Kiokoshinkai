@@ -22,6 +22,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" height="75">
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="75" height="75">
 <img src="https://github.com/Kiokoshinkai/Kiokoshinkai/assets/104086140/c766cd6f-91e0-4bbc-92b9-b8be1e248a99" width="75" height="75">
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="75" height="75">
 
 ---
 
